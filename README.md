@@ -20,6 +20,7 @@ Data Sources:
 
 - WMATA Metro Routes GeoJSON: https://catalog.data.gov/dataset/metro-lines-regional/resource/981c248e-e9bd-4fa6-9779-faf659483dcc
 
+Note:
   
 - In the "ic25-mindpetal-dc-metro-analysis.ipynb" file: The plotly dashboards do not display in the preview, but after running the code and selecting any of the 98 WMATA stations of your choice, the graphs  will show up!
 

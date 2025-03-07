@@ -12,7 +12,7 @@ Data Sources:
   
 - WMATA Ridership Summary Dashboard: https://www.wmata.com/initiatives/ridership-portal/Metrorail-Ridership-Summary.cfm
 
-- National Raw Monthly Ridership: https://www.transit.dot.gov/ntd
+- National Raw Annual Ridership: https://www.transit.dot.gov/ntd
 
 - DC Crime Data: https://www.kaggle.com/datasets/martinmraz07/dc-metro-crime-data/code
 

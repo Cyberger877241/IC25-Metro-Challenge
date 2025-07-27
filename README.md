@@ -1,4 +1,4 @@
-# IC25-Metro-Challenge
+# UMD Info Challenge 25 - DC-Metro-Challenge
 IC25 Group 30
 
 Edit: **Awarded Best Presentation**
